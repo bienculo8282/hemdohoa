@@ -21,7 +21,7 @@ module.exports = {
     return [
       {
         source: '/posts/:slug',
-        destination: 'https://trochoitapthe.com/:slug',
+        destination: 'https://hemdohoa.com/:slug',
         has: [
           {
             type: 'header',
